@@ -5,3 +5,5 @@
  Przy rozwiązaniach dodatkowo występuje literka r.
  Do zadania 3 z listy powtórkowej przygotowano 2 warianty rozwiązań.
  Podobnie w przypadku zadania 6 z listy 7 - dostępne są 3 warianty rozwiązań.
+ 
+ 

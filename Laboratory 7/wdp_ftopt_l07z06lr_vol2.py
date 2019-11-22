@@ -2,9 +2,9 @@
 # a nastepnie wyewietla je w porzadku alfabetycznym.
 
 # Na ile sposobow mozemy uszeregowac 4 osoby?
-# odpowiedz na 4! = 24 -> czyli mamy 24 mozliwosci ustawien pseudonimow (kazdy print to inne ustawienie)
+# odpowiedz na 4! = 24 -> czyli mamy 24 mozliwosci ustawien pseudonimow
+# Wersja 2 rozwiazania tego zadania - przy wykorzystaniu funkcji sorted() lub sort()
 
-# Wersja 2 rozwiazania tego zadania
 def main():
     p1 = input("Podaj pierwszy pseudonim: ")
     p2 = input("Podaj drugi pseudonim: ")

@@ -1,7 +1,7 @@
 # Laboratorium 7 - 21.11.2019r.
 Zadania przerobione na zajęciach.
-Z
-adania z listy powtórzeniowej są oznaczone literką p.
+
+Zadania z listy powtórzeniowej są oznaczone literką p.
 Zadania z listy 7 są oznaczone literą l.
 Przy rozwiązaniach dodatkowo występuje literka r.
 Do zadania 3 z listy powtórkowej przygotowano 2 warianty rozwiązań.

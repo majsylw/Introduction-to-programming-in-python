@@ -45,7 +45,8 @@ def main():
     p = float(input("Podaj swoja predkosc [m/s]: "))#.5
     wynik = predkosc(masa,d)#.5
     
-    if p > wynik: #1
+    epsylon = 1e-5
+    if p > (wynik + epsylon) or p < (wynik-epsylon): #1
         print("Nie masz sie czego obawiać, przechodz smialo!")#1
         print("Ale jesli pobiegniesz", format(wynik,".2e"),"m/s to sie moze zle skonczyc")#1
     else: #1

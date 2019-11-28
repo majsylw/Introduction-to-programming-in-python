@@ -32,9 +32,8 @@ def main():
     mianownik2 = int(input("Podaj drugi mianownik: "))
 
     # od tego miejsca uzupelnij swoj kod
-    l_wynik, m_wynik = dodawanie_ulamkow(licznik1,mianownik1,licznik2,mianownik2) # 1
-    
     if mianownik1 != 0 and mianownik2 != 0: # 1
+        l_wynik, m_wynik = dodawanie_ulamkow(licznik1,mianownik1,licznik2,mianownik2) # 1
         print(licznik1,"/",mianownik1,' + ',licznik2,"/",mianownik2," = ",l_wynik,'/',m_wynik, sep="") # .5
     else: # 1
         print("Niepoprawne dzielenie przez 0!") # .5

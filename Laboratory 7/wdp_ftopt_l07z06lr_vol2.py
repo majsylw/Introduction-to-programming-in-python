@@ -11,7 +11,7 @@ def main():
     p3 = input("Podaj trzeci pseudonim: ")
     p4 = input("Podaj czwarty pseudonim: ")
 
-    print(sorted([p1,p2,p3,p4])) # soryujemy i wyswietlamy od razu
+    print(sorted([p1,p2,p3,p4])) # sortujemy i wyswietlamy od razu
 
     # mozna tez tak
     # tworzymy liste pseudonimow w dowolnej koejnosci

@@ -21,10 +21,10 @@ The main goal of the course is to teach basics of programming in python.
 
 ## Features
 List of features ready and TODOs for future development
-* Solutions for excercises for laboratories 7-10
+* Solutions for excercises for laboratories 2-10
 
 To-do list:
-* Create directories for laboratories 1-6
+* Create directories for laboratories 1, 10-15
 * Create comprehensive notes
 
 ## Status

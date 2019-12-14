@@ -3,7 +3,7 @@
 def suma_ciagu(n,wybor):
     if wybor == 1: # zsumowanie wszystkich cyfr z zakresu 1 do n
         suma = (1+n)/2*n
-    elif wybor == 2: # wybor zsumowania cyfr nieparzystych z zakresu 1 do n
+    elif wybor == 2: # wybor zsumowania cyfr parzystych z zakresu 1 do n
         if n%2 == 0:
             suma = (2+n)/2*(n//2) # gdy n parzyste
         else:

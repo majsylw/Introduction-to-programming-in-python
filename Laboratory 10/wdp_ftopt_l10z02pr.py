@@ -15,7 +15,11 @@ def rysuj_trojkat(h):
 def main():
     
     print("Rysujemy trojkat")
-    wysokosc = int(input("Podaj wysokosc trojkata: "))
+    wysokosc = 0
+    while wysokosc <= 0 or wysokosc > 5:
+        wysokosc = int(input("Podaj wysokosc trojkata: "))
+        if wysokosc <= 0 or wysokosc > 5:
+            print("Zle dane, sprobuj raz jeszcze!")
     rysuj_trojkat(wysokosc)
     
 

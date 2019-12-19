@@ -3,7 +3,7 @@
 ## Zadania z zaliczenia cząstkowego nr 3.
 1) Pozwol uzytkownikowi wprowadzic dowolna liczbe imion ciagiem 
 (np. jako jeden string, rozdzielone przecinkiem lub białym znakiem). 
-Nastepnie pozdrów każdą osobę na liscie poprzez cykliczne wyswietlenie „Wesolych swiat, <imie>!”.
+Nastepnie pozdrów każdą osobę na liscie poprzez cykliczne wyswietlenie <pre>„Wesolych swiat, <imie>!”</pre>.
 
 Przykladowe wywolanie programu:
 <pre>

@@ -8,4 +8,4 @@
 
 ![](https://github.com/majsylw/Introduction-to-programming-in-python/blob/master/screens/kartki.png)
 
-
+Więcej przykładów i krótki tutorial można znaleźć pod [adresem](https://www.101computing.net/christmas-tree/).

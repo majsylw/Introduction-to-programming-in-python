@@ -1,8 +1,26 @@
 # Laboratorium 11 - 19.12.2019r.
 
 ## Zadania z zaliczenia cząstkowego nr 3.
-1) ...
-2) ...
+1) Pozwol uzytkownikowi wprowadzic dowolna liczbe imion ciagiem 
+(np. jako jeden string, rozdzielone przecinkiem lub białym znakiem). 
+Nastepnie pozdrów każdą osobę na liscie poprzez cykliczne wyswietlenie „Wesolych swiat, <imie>!”.
+
+Przykladowe wywolanie programu:
+<pre>
+Czesc, podaj imiona czlonkow grupy: Ada,Kinga,Michal,Bartek
+Wesolych swiat, Ada!
+Wesolych swiat, Kinga!
+Wesolych swiat, Michal!
+Wesolych swiat, Bartek!
+</pre>
+
+2) Napisz program, ktory wykona się zadaną przez użytkownika liczbę razy.
+W każdej iteracji pętli:
+- pobierz od uzytkownika liczbe calkowita
+– wyświetl informację czy liczba jest wielokrotnoscia 3
+– wyświetl informację czy liczba jest wielkorotnoscia 4
+– wyswietl „hurra” jeżeli liczba dzieli się zarówno przez 3 jak i 4
+– wyswietl gwiazdke, jesli zaden z powyzszych warunkow nie jest spełniony.
 
 ## Kartki świąteczne
 

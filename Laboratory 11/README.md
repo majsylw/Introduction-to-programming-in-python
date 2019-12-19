@@ -16,10 +16,10 @@ Wesolych swiat, Bartek!
 
 2) Napisz program, ktory wykona się zadaną przez użytkownika liczbę razy.
 W każdej iteracji pętli:
-- pobierz od uzytkownika liczbe calkowita
-– wyświetl informację czy liczba jest wielokrotnoscia 3
-– wyświetl informację czy liczba jest wielkorotnoscia 4
-– wyswietl „hurra” jeżeli liczba dzieli się zarówno przez 3 jak i 4
+- pobierz od uzytkownika liczbe calkowita<br>
+– wyświetl informację czy liczba jest wielokrotnoscia 3<br>
+– wyświetl informację czy liczba jest wielkorotnoscia 4<br>
+– wyswietl „hurra” jeżeli liczba dzieli się zarówno przez 3 jak i 4<br>
 – wyswietl gwiazdke, jesli zaden z powyzszych warunkow nie jest spełniony.
 
 ## Kartki świąteczne

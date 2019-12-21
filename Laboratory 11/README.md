@@ -23,7 +23,10 @@ W każdej iteracji pętli:
 - wyswietl gwiazdke, jesli zaden z powyzszych warunkow nie jest spełniony.
 
 ## Kartki świąteczne
-
+Zadanie domowe - dla chętnych
+Przygotuj kartkę świąteczną według zaprezentowanego poniżej wzoru (jednego z trzecz - czapki świętego Mikołaja, bałwanka lub zaśnieżonego lasu)
 ![](https://github.com/majsylw/Introduction-to-programming-in-python/blob/master/screens/kartki.png)
+Postaraj się aby w swoim rozwiązaniu wykorzystać pętle i funkcje.
+Możesz posiłkować się skryptami umieszczonymi w tym folderze: main.py oraz ksztalty.py
 
 Więcej przykładów i krótki tutorial można znaleźć pod [adresem](https://www.101computing.net/christmas-tree/).

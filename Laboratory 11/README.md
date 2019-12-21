@@ -24,7 +24,7 @@ W każdej iteracji pętli:
 
 ## Kartki świąteczne
 Zadanie domowe - dla chętnych <br>
-Przygotuj kartkę świąteczną według zaprezentowanego poniżej wzoru (jednego z trzecz - czapki świętego Mikołaja, bałwanka lub zaśnieżonego lasu)
+Przygotuj kartkę świąteczną według zaprezentowanego poniżej wzoru (jednego z trzech - czapki świętego Mikołaja, bałwanka lub zaśnieżonego lasu)
 ![](https://github.com/majsylw/Introduction-to-programming-in-python/blob/master/screens/kartki.png)<br>
 Postaraj się aby w swoim rozwiązaniu wykorzystać pętle i funkcje.
 Możesz posiłkować się skryptami umieszczonymi w tym folderze: main.py oraz ksztalty.py

@@ -23,7 +23,7 @@ W każdej iteracji pętli:
 - wyswietl gwiazdke, jesli zaden z powyzszych warunkow nie jest spełniony.
 
 ## Kartki świąteczne
-Zadanie domowe - dla chętnych
+Zadanie domowe - dla chętnych <br>
 Przygotuj kartkę świąteczną według zaprezentowanego poniżej wzoru (jednego z trzecz - czapki świętego Mikołaja, bałwanka lub zaśnieżonego lasu)
 ![](https://github.com/majsylw/Introduction-to-programming-in-python/blob/master/screens/kartki.png)<br>
 Postaraj się aby w swoim rozwiązaniu wykorzystać pętle i funkcje.

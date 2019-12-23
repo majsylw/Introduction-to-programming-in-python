@@ -8,5 +8,6 @@ Przykładowe rozwiązania zadań z listy 2.
 - twoje imię i nazwisko,
 - twój kierunek studiów,
 - twój numer indeksu.
+
 Przed przystąpieniem do pisania programu zaprojektuj odpowiedni algorytm.
 Każdy komunikat umieść w osobnej funkcji – łącznie program powinien składać się z 4 funkcji.

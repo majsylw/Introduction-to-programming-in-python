@@ -23,4 +23,4 @@ po przeliczeniu to: 2h : 1m : 39.0s
 
 6. Napisz program, który oblicza wartość funkcji f(x) = a⋅x + b, dla podanych przez użytkownika współczynników a i b oraz zmiennej x. Obliczoną wartość program powinien wypisywać na ekran. W programie wydziel funkcję, która pobiera trzy argumenty i wyświetla wynik. Zastanów się, jaki jest związek między obliczaniem wartości funkcji f(x), a przeliczaniem różnych skal temperatur (patrz zadanie 5 z listy 2).
 
-7. Napisz program, który oblicza wartość funkcji f(x) = a⋅x<sup>2<\sup> + b⋅x + c, dla podanych przez użytkownika współczynników a, b i c oraz zmiennej x. Obliczoną wartość program powinien wypisywać na ekran. Zastanów się, w jaki sposób obliczać wartość funkcji, aby zminimalizować liczbę wykonywanych działań.
+7. Napisz program, który oblicza wartość funkcji f(x) = a⋅x<sup>2</sup> + b⋅x + c, dla podanych przez użytkownika współczynników a, b i c oraz zmiennej x. Obliczoną wartość program powinien wypisywać na ekran. Zastanów się, w jaki sposób obliczać wartość funkcji, aby zminimalizować liczbę wykonywanych działań.

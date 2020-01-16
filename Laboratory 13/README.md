@@ -6,5 +6,5 @@ W folderze umieściłam 4 zestawy przykładowych zadań na kolokwium zaliczeniow
 - Zestaw A
 - Zestaw B
 - Zestaw C
-- Zestaw D
-oraz folder z odpowiedziami ```Answers```.
+- Zestaw D oraz 
+- folder z odpowiedziami ```Answers```.

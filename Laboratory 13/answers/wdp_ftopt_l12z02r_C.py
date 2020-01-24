@@ -28,7 +28,7 @@ def main():
         n = int(input("Liczba n musi być dodatnia! Podaj liczbe punktow: ")) # 1
 
     print('x\t\t1/x')
-    krok = 2/n # 1
+    krok = 2/(n-1) # 1
     for i in range(n): # 2
         if (-1+i*krok) != 0: # 2
             print(format(-1+i*krok,".2f"),"\t\t",format(1/(-1+i*krok),".2f")) # 4

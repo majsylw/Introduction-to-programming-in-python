@@ -46,7 +46,7 @@ def main():
 
     print('x',"\t\t",'sin(x)/x')
     print('--------------------------')
-    krok = 2/n # 1
+    krok = (1-(-1))/(n-1) # 1
     for i in range(n): # 2
         if (-1+i*krok) != 0: # 2
             print(format(-1+i*krok,".2f"),"\t\t",format(sin(-1+i*krok)/(-1+i*krok),".2f")) # 4

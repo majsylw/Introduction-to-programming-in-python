@@ -27,3 +27,14 @@
 # |A| = 5.692e+01
 # =======================================
 
+def main():
+    n=int(input("Podaj liczbę całkowitą: ")) # 1
+    wynik = 0 # 2
+    for i in range (n): # 2
+        x = float(input("Podaj liczbę: ")) # 2
+        wynik += x**2 # 2
+    wynik = wynik**0.5 # 3
+
+    print("|A| = ", format(wynik, ".3e")) # 3
+
+main()

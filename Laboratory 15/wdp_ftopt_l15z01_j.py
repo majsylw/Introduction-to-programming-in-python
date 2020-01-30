@@ -41,3 +41,24 @@
 # Pole trójkąta wynosi: 6.0
 # =======================================
 
+import math
+
+def main():
+    a = float(input("Podaj długośc pierwszego boku trójkąta: ")) # 1
+    b = float(input("Podaj długośc drugiego boku trójkąta: ")) # 1
+    c = float(input("Podaj długośc trzeciego boku trójkąta: ")) # 1
+
+    if a>0 and b>0 and c>0: # 2
+        if a + b > c and b + c > a and c + a > b: # 2
+            s = (a+b+c)/2
+            P = math.sqrt(s*(s-a)*(s-b)*(s-c)) # 1
+            print("Pole trójkąta wynosi:", P) # 1
+            if a==b and a==c and c==b: # 1
+                print("Trójkat jest równoboczny") # 1
+            if a==b or a==c or c==b: # 1
+                print("Trójkat jest równoramienny") # 1
+                    
+        else: # 1
+            print("Błąd! Nie jest spełniona nierówność trójkata!")
+    else: # 1
+        print("Przynajmniej jedna z podanych długości nie jest dodatnia. Koniec programu.")

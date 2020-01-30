@@ -84,11 +84,21 @@ def Linia(n=26):
 ###############################################
 # Stwórz ciało funkcji KonwerterTemperatury()
 def KonwerterTemperatury():
-    pass # w ciele funkcji możesz:
-        # używać operatora przypisania (=)
-        # wywoływać inne funkcje z tego skryptu
-        # wywoływać funkcję print()
-        # używać słowa kluczowego return
+    T=WczytajTemperature()
+    print(Linia())
+    WyswietlTemperature(T,skala='[K]')
+    WyswietlTemperature(KelwinyNaCelsjusze(T), "[C]")
+    WyswietlTemperature(KelwinyNaFahrenheity(T), "[F]")
+    
+    return T
+# Przykładowa punktacja:
+# [4 pkt] program dziala, ale niekoniecznie wg. reguł zadania
+# [1 pkt] wykorzystanie WczytajTemperature()
+# [1 pkt]    - | | -    WyswietlTemperature() dla Kelwinów
+# [1 pkt]    - | | -    Linia()
+# [1 pkt] wyświetlenie  KelwinyNaCelsjusze() 
+# [1 pkt]    - | | -    KelwinyNaFahrenheity()
+# [1 pkt] wykorzystanie return T
 ###############################################
 
 

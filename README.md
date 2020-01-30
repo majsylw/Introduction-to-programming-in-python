@@ -25,4 +25,4 @@ List of features ready and TODOs for future development
 * Some notes in [wiki](https://github.com/majsylw/Introduction-to-programming-in-python/wiki) [PL]
 
 ## Status
-Project is: _in progress_
+Project is: _finished_

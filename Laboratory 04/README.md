@@ -1,4 +1,4 @@
-# Laboratorium 5 - 9.11.2020r.
+# Laboratorium 4 - 4.11.2020r.
 
 1. Zmienne i typy danych
 2. Operacje wejścia i wyjścia:

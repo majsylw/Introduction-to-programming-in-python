@@ -19,9 +19,9 @@ def sprawdz(x, y, z):
         print("Liczba parzysta")
 
 def main():
-    x = bool(int(input("Podaj wartość logiczną x: ")))
-    y = bool(int(input("Podaj wartość logiczną y: ")))
-    z = bool(int(input("Podaj wartość logiczną z: ")))
+    x = bool((int(input("Podaj wartość logiczną x: ")))
+    y = bool((int(input("Podaj wartość logiczną y: ")))
+    z = bool((int(input("Podaj wartość logiczną z: ")))
 
     sprawdz(x, y, z)
 
